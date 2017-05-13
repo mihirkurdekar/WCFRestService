@@ -1,0 +1,10 @@
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.dll.config
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.dll
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.pdb
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.dll
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.pdb
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\nunit.framework.dll
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\Rhino.Mocks.dll
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\nunit.framework.xml
+C:\Users\lokeshkumar_shahu\documents\visual studio 2013\Projects\WCFService\WCFService\bin\Rhino.Mocks.xml
